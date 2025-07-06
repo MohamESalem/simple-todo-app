@@ -1,6 +1,6 @@
-**Simple React Todo App**
+#Simple React Todo App
 
-This is a beginner-friendly Todo List application built using React. It’s designed as a foundational project to help you learn and practice core React concepts. The app enables users to add tasks, mark them as completed, and delete them.
+This is a beginner-friendly Todo List application built using React. 
 
 ---
 
