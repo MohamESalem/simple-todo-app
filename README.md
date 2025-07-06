@@ -1,4 +1,4 @@
-#Simple React Todo App
+# Simple React Todo App
 
 This is a beginner-friendly Todo List application built using React. 
 
